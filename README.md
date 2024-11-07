@@ -1,2 +1,2 @@
 # PHP-Snippets
-A collection of useful PHP code snippets
+A collection of solutions to various PHP challenges and problems
